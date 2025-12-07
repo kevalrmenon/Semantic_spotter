@@ -12,7 +12,7 @@ answering questions from a bunch of policy documents.
 
 ## 3. Document
 
-1. The policy documents can be found [here](https://github.com/kevalrmenon/Policy+Documents)
+1. The policy documents can be found [here](./Policy+Documents)
 
 ## 4. Approach
 
@@ -104,8 +104,8 @@ The LangChain framework revolves around the following building blocks:
 
 ## 6. System Architecture
 
-![](https://github.com/kevalrmenon/images/arch1.png)
-![](https://github.com/kevalrmenon/images/arch2.png)
+![](./images/arch1.png)
+![](./images/arch2.png)
 
 ## 7. Prerequisites
 
